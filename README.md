@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rajan Kumar Maurya</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+- 🔭 I’m currently **exploring new technologies**
+
+- 👯 I’m **a MERN developer**
+
 - 👨‍💻 All of my projects are available at [https://rajankumarmaurya.github.io/Portfolio/](https://rajankumarmaurya.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
